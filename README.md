@@ -80,7 +80,12 @@ I'm alsi learning:
     >git branch -m master main
 ## 29
 
+    >git push
 
+    Hela sanningen är att jag var tvungen att ta bort mina gamla ssh hosts och lägga till en ny. Det var YT tutorial och mycket copy paste men nu funkar det iaf att pusha från den här datorn >.<
+## 30.
 
-
-
+    >cd Desktop
+    >mkdir clonePowerShell-git-tutorial
+    >cd 'tab'
+    >clone git@github.com:focusjuice/PowerShell-git-tutorial.git
