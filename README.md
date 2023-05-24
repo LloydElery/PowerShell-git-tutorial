@@ -71,5 +71,16 @@ I'm alsi learning:
 
 ## 27.
 
+    >git remote ad origin git@github.com:focusjuice/PowerShell-git-tutorial.git
+
+    >git remote -v
+    origin  git@github.com:focusjuice/PowerShell-git-tutorial.git (fetch)origin  git@github.com:focusjuice/PowerShell-git-tutorial.git (push)
+## 28.
+
+    >git branch -m master main
+## 29
+
+
+
 
 
