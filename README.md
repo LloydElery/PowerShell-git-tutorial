@@ -28,6 +28,48 @@
     Initialized empty Git repository in C:/Users/Threefiddy/Desktop/terminal-git-tutorial/.git/
 ## 13
 
-    
+    > echo >> .gitignore
+    InputObject[0]: >/newFolder
+## 14.
 
-    
+    >git add README.md
+    >git add .gitignore
+## 15.
+
+    >git status
+## 16.
+
+    >git commit -am "README file for the repository"
+## 17.
+
+    En git branch används för att skriva kod som vid ett senare tillfälle ska fogas samman med stammen, 'main'. Detta är särskilt bra när det är flera utvecklare som jobbar på samma projekt då de skapar en miljö (branch) som var och en kan jobba i utan att påverka varandras arbete eller stammen, main.
+## 18.
+
+    >git branch newBranch
+    >git checkout newBranch
+## 19.
+
+    >echo >> newFile.txt
+    >git add newFile.txt
+    >git commit -am "New file to the newBranch"
+## 20.
+
+    >git checkout master
+    Den syns inte när man skriver >ls
+## 21.
+# README
+## 22.
+
+This is my first GitHub repository and I'm training the use of **Git** and *GitHub.*
+
+## 24.
+
+I'm alsi learning:
+- HTML
+- CSS
+- JavaScript
+
+## 27.
+
+
+
